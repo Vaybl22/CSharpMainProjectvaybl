@@ -13,6 +13,8 @@ public class EnterPoint : MonoBehaviour
     private float _timeScale = 1;
     // asaksk
 
+    // VAybl
+
     /*/
      * f
      * f
