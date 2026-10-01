@@ -5,24 +5,13 @@ using Model;
 using Model.Config;
 using UnityEngine;
 using Utilities;
-//maks
+//lexa
 public class EnterPoint : MonoBehaviour
 {
     [SerializeField] private Settings _settings;
     [SerializeField] private Canvas _targetCanvas;
     private float _timeScale = 1;
-    // asaksk
-
-    // VAybl
-    //sksdjdhsbzs
-    /*/
-     * f
-     * f
-     * f
-     * f
-     * f
-     */*/
-
+    // это я
     void Start()
     {
         Time.timeScale = _timeScale;
